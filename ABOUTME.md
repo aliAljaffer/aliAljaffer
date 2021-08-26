@@ -16,5 +16,5 @@ Specific interests include:
     - Here is my [photo portfolio](https://flic.kr/ps/3QcTa1) of non-professional work.
   * doing homework, I guess.
   
- ### Contact
+ ## Contact
  Available on Discord: bigShoes#5588
