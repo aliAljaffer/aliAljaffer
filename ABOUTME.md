@@ -8,6 +8,7 @@ Specific interests include:
   * gaming
   * custom PC building
   * cooking
+    - [cooking portfolio!](https://flic.kr/ps/3Xg9bE)
   * photography
     - The formats I shoot in are: 
       * 8mm movie(Canon 514XL-S)
@@ -15,7 +16,6 @@ Specific interests include:
       * Digital(Sony a6000, (and soon) Fujifilm X-S10)
       * Currently trying to snag a 6x9 medium format camera!
     - Here is my [photo portfolio](https://flic.kr/ps/3QcTa1) of non-professional work.
-    - [cooking portfolio!](https://flic.kr/ps/3Xg9bE)
   * doing homework, I guess.
   
  ## Contact
