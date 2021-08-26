@@ -7,6 +7,7 @@ Specific interests include:
   * mathematics
   * gaming
   * custom PC building
+  * cooking
   * photography
     - The formats I shoot in are: 
       * 8mm movie(Canon 514XL-S)
