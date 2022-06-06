@@ -1,5 +1,5 @@
 # About me 
-Hello! My name is Ali Aljaffer. I'm a Computer Science sophomore @ Wright State University. Recently relocated to Dayton, OH.
+Hello! My name is Ali Aljaffer. I'm a Computer Science sophomore and TA @ Wright State University. Recently relocated to Dayton, OH.
 
 ## Interests
 I'm interested in many fields. I love learning about pretty much anything. Well, except for Biology and Chemistry. 
