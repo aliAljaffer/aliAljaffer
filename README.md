@@ -1,6 +1,3 @@
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🌱 I’m currently learning **CKA, GCP, OCI**
 
 - 👨‍💻 All of my projects are available at [https://alialjaffer.com](https://alialjaffer.com)
