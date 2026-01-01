@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **CKA, GCP, OCI**
+- 🌱 I’m currently learning **CKS, GCP, OCI**
 
 - 👨‍💻 All of my projects are available at [https://alialjaffer.com](https://alialjaffer.com)
 
