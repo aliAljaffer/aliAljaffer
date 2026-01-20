@@ -18,6 +18,7 @@
 
 <h3 align="left">Certifications:</h3>
 
+<a href="https://www.credential.net/2de8d6e0-8966-4fd4-ab4f-39a6f2f43bcc" target="blank"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/172092668" alt="DASA Devops Fundamentals" height="75" width="75" /></a>
 <a href="https://www.credly.com/badges/460fb1fe-342c-45e0-8b17-c6225e43ec7a/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" height="75" width="75" /></a>
 <a href="https://www.credly.com/badges/574c7848-77e6-4c25-a1b6-d7d4f70a130c/public_url" target="blank"><img align="center" src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" height="75" width="75" /></a>
 <a href="https://www.credly.com/earner/earned/badge/90df08a0-de5d-4eab-9ed3-013e17556f71/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="75" width="75" /></a>
