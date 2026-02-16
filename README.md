@@ -20,7 +20,7 @@
 
 <details>
   <summary>Certifications</summary>
-  <a href="#" target="blank"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2024/04/kubestronaut-stacked-color.png" alt="CKS: Certified Kubernetes Security Specialist" height="75" width="75" /></a>
+  <a href="https://www.credly.com/badges/2f5cd2f9-d2b6-48ce-9098-0b79e145541e" target="blank"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2024/04/kubestronaut-stacked-color.png" alt="CKS: Certified Kubernetes Security Specialist" height="75" width="75" /></a>
   <a href="https://www.credly.com/earner/earned/badge/6d3a6109-76a3-4873-9305-5679d128f6ba" target="blank"><img align="center" src="https://training.linuxfoundation.org/wp-content/uploads/2020/07/kubernetes-security-specialist-logo-300x285.png" alt="CKS: Certified Kubernetes Security Specialist" height="75" width="75" /></a>
   <a href="https://www.credential.net/2de8d6e0-8966-4fd4-ab4f-39a6f2f43bcc" target="blank"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/172092668" alt="DASA Devops Fundamentals" height="75" width="75" /></a>
 <a href="https://www.credly.com/badges/460fb1fe-342c-45e0-8b17-c6225e43ec7a/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" height="75" width="75" /></a>
