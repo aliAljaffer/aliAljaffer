@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **Alibaba, GCP (PCA)**
+- 🌱 I’m currently learning **Golang, GCP (PCA)**
 
 - 👨‍💻 All of my projects are available at [https://alialjaffer.com](https://alialjaffer.com)
 
